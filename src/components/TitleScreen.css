@@ -1,0 +1,16 @@
+/* src/components/TitleScreen.css */
+.title-screen {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: black;
+  background-size: cover; /* Add this line to scale the background image */
+}
+
+.title-screen img {
+  max-width: 100%;
+  max-height: 100%;
+}
