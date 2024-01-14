@@ -2,6 +2,10 @@
 
 Welcome to my interactive React game! This project is designed to be an engaging and fun way for users to learn more about me as a developer. The game features a combination of interactive elements, background music, and interesting facts about my skills and experiences.
 
+## **LIVE DEMO:** [Click here to learn about me in my Interactive React game!](https://learn-about-charlie.netlify.app/)
+
+![enter image description here](https://i.imgur.com/cz1xxj9.png)
+
 ## Overview
 
 The game consists of two main components: the Title Screen and the Game Screen.
